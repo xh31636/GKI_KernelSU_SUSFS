@@ -14,7 +14,7 @@ on:
         type: choice
         options:
           - ubuntu-22.04
-          - ubuntu-24.04-local
+          - ubuntu-22.04-local
       build_a12_5_10:
         description: 'Build Android 12 5.10 kernel?'
         required: true
